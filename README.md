@@ -52,7 +52,7 @@
 
 - LSTM , Attention , BERT fine-tuning
 
-- Koalphaca
+- Koalpaca
 
 https://github.com/Beomi/KoAlpaca.git
 
